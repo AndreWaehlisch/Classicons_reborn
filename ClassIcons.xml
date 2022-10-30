@@ -44,10 +44,10 @@
 		</Layers>
 	</Frame>
 
-	<Frame name="$parentClassIcon" inherits="UnitFrameClassIconSmallTemplate" parent="PartyMemberFrame1" id="1" />
-	<Frame name="$parentClassIcon" inherits="UnitFrameClassIconSmallTemplate" parent="PartyMemberFrame2" id="2" />
-	<Frame name="$parentClassIcon" inherits="UnitFrameClassIconSmallTemplate" parent="PartyMemberFrame3" id="3" />
-	<Frame name="$parentClassIcon" inherits="UnitFrameClassIconSmallTemplate" parent="PartyMemberFrame4" id="4" />
+	<Frame name="$parentClassIcon1" inherits="UnitFrameClassIconSmallTemplate" parent="PartyFrame" />
+	<Frame name="$parentClassIcon2" inherits="UnitFrameClassIconSmallTemplate" parent="PartyFrame" />
+	<Frame name="$parentClassIcon3" inherits="UnitFrameClassIconSmallTemplate" parent="PartyFrame" />
+	<Frame name="$parentClassIcon4" inherits="UnitFrameClassIconSmallTemplate" parent="PartyFrame" />
 
 	<Frame name="ClassIcons" hidden="true">
 		<Scripts>
