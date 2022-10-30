@@ -1,6 +1,6 @@
-## Interface: 90207
+## Interface: 100000
 
-## Title: ClassIcons |cffC0C0C0Shadowlands release|r
+## Title: ClassIcons |cffC0C0C0Dragonflight release|r
 
 ## Version: @project-version@
 
