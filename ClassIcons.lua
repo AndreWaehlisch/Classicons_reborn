@@ -308,16 +308,16 @@ local function CheckVar(key, standard)
 end
 
 local DBSetup = {
-	["Active"] = true
-	["Player"] = true
-	["Party"] = true
-	["Focus"] = true
-	["Target"] = true
-	["MobsUse"] = "type"
-	["PlayerAngle"] = 45
-	["PartyAngle"] = 45
-	["TargetAngle"] = 135
-	["FocusAngle"] = 135
+	["Active"] = true,
+	["Player"] = true,
+	["Party"] = true,
+	["Focus"] = true,
+	["Target"] = true,
+	["MobsUse"] = "type",
+	["PlayerAngle"] = 45,
+	["PartyAngle"] = 45,
+	["TargetAngle"] = 135,
+	["FocusAngle"] = 135,
 }
 
 function ClassIcons_OnEvent(self, event, arg1)
