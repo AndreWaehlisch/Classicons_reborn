@@ -13,6 +13,7 @@ local Icons = {
 	["DEMONHUNTER"] = "DEMONHUNTER",
 	["DRUID"] = "DRUID",
 	["ELEMENTAL"] = "ELEMENTAL",
+	["EVOKER"] = "EVOKER",
 	["GIANT"] = "GIANT",
 	["HUMANOID"] = "HUMANOID",
 	["HUNTER"] = "HUNTER",
