@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 110002
 
 ## Title: ClassIcons |cffC0C0C0Dragonflight release|r
 
@@ -11,6 +11,8 @@
 ## SavedVariables: CLASSICONS_CONFIG
 
 ## OptionalDeps: LibBabble-CreatureType-3.0
+
+## IconTexture: 132092
 
 Libs\LibBabble-CreatureType-3.0\LibStub\LibStub.lua
 Libs\LibBabble-CreatureType-3.0\lib.xml
