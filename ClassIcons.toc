@@ -1,6 +1,6 @@
 ## Interface: 110002
 
-## Title: ClassIcons |cffC0C0C0Dragonflight release|r
+## Title: ClassIcons |cffB72B09TheWarWithin release|r
 
 ## Version: @project-version@
 
